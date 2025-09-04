@@ -1,0 +1,36 @@
+{
+  "name": "form-field-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/formidable": "^3.4.5",
+    "@types/js-yaml": "^4.0.8",
+    "formidable": "^3.5.1",
+    "js-yaml": "^4.1.0",
+    "lucide-react": "^0.542.0",
+    "next": "13.4.19",
+    "openai": "^4.20.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
+    "@types/react-syntax-highlighter": "^15.5.9",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "13.4.19",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.2"
+  }
+}
